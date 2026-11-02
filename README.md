@@ -53,4 +53,4 @@ La API queda en `http://localhost:3000`.
 ---
 
 Hecho por **Santiago Elian Vazquez** como parcial de la Tecnicatura Superior en Desarrollo de Software (ISFT 225).
-[Portfolio](https://santiago-vazquez-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/santiago-vazquez-b266b3374/)
+[Portfolio](https://santiago-vazquez-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/santiagoelianvazquez/)
